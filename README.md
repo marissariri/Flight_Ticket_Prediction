@@ -1,7 +1,7 @@
 🖊️ Objective:
 Analyzing the flight booking dataset obtained from the “Kaggle” website and conducting various statistical hypothesis tests in order to get meaningful information from it. 
 
-📁 The dataset was taken from Kaggle: https://lnkd.in/gbPNQdib
+📁 The dataset was taken from Kaggle (study case of Indian airlines) : https://lnkd.in/gbPNQdib
 
 ✨ In this project, I performed :
 - Data Preprocessing, 
